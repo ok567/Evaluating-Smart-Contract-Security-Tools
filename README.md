@@ -5,7 +5,7 @@ Contracts in this repo are vulnerable by design and should not be used in produc
 
 
 ## MSc Disseration Paper
-This repository includes a dissertation entitled "Testing the Accuracy of AI Tools that Specialize in Providing Security for Smart Contracts written in Solidity and Deployed on Ethereum-Based Blockchains." It goes into great detail about the various AI tools available for the security of smart contracts and also reviews their effectiveness in finding vulnerabilities within the smart contracts.
+The repository also includes a dissertation entitled "Testing the Accuracy of AI Tools that Specialize in Providing Security for Smart Contracts written in Solidity and Deployed on Ethereum-Based Blockchains." It goes into great detail about various traditional and AI-powered tools available for the security of smart contracts, reviews their effectiveness in finding vulnerabilities within the smart contracts, and provides a comparison between the well-established traditional tools and AI-powered tools to find any potential future improvements for these up and coming tools.
 
 
 ## Acknowledgments
