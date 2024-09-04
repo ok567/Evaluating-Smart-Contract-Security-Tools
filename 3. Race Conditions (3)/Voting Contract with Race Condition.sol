@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 // This contract allows users to vote for candidates and revoke their votes.
