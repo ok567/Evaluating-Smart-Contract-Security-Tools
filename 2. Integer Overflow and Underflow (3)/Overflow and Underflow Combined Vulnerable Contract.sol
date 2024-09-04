@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 // This contract demonstrates both potential overflow and underflow issues with balances.
