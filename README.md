@@ -1,4 +1,4 @@
-# Evaluating-Smart-Contract-Security-Tools
+# Evaluating-Smart-Contract-Security-Tools-Powered-By-AI
 
 ## Repository 
 Contracts in this repo are vulnerable by design and should not be used in production. Their only purpose is educational-for depicting how certain vulnerabilities could be exploited.
