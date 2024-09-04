@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 // This contract demonstrates a potential Denial of Service (DoS) vulnerability due to block gas limit.
